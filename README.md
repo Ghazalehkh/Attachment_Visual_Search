@@ -4,7 +4,7 @@ A computerized neuropsychological experiment designed to assess visual attention
 
 ---
 ## 📌 Project Overview
-**This task is a specialized Visual Search Task utilizing a 3*3 stimulus matrix. The underlying psychological framework relies on Attachment Theory. The stimuli consist of distinct attachment-related images (e.g., secure, anxious, avoidant, or neutral attachment representations) to measure how internal working models of attachment influence visual search efficiency, selective attention, and cognitive processing speeds.*
+This task is a specialized Visual Search Task utilizing a 3*3 stimulus matrix. The underlying psychological framework relies on Attachment Theory. The stimuli consist of distinct attachment-related images (e.g., secure, anxious, avoidant, or neutral attachment representations) to measure how internal working models of attachment influence visual search efficiency, selective attention, and cognitive processing speeds.*
 ---
 
 ## 🎮 Task Design & Layout
