@@ -19,7 +19,7 @@ This task is a specialized Visual Search Task utilizing a 3*3 stimulus matrix. T
 
 The task automatically records behavior on a trial-by-trial basis and exports the data into a structured format (e.g., `.csv` files) inside the output directory[cite: 1]. The primary dependent variables are:
 
-* `Reaction_Time` (RT): The precise time in milliseconds from the onset of the matrix display until the participant registers a mouse click.
+* `Reaction_Time (RT)`: The precise time in milliseconds from the onset of the matrix display until the participant registers a mouse click.
 * `Clicked_Image`: The identity/filename of the image the participant selected (used to evaluate accuracy, missed targets, or specific distractor interference)
 * `Target_Image`: The identity of the correct item
 * `Is_Correct`: A boolean value (1 or 0) representing whether the correct target was clicked
